@@ -2,6 +2,8 @@
 
 This repository contains Python notebooks solving assignments related to Probability, Statistics, and Data Visualization (PSDV) for the ES-114 course.
 
+## [Exploraty Data analysis and narratives](https://github.com/Aryan-IIT/Data-Narratives-and-Explorations)
+
 ## Assignments
 
 ### [Assignment1_Exploring-Discrete-Random-Variables.ipynb](Assignment1_Exploring-Discrete-Random-Variables.ipynb)
